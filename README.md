@@ -1,4 +1,14 @@
-# This project belongs to Course: https://www.youtube.com/watch?v=MMFBD2Eoeuk&list=PLMbRqrU_kvbRI4PgSzgbh8XPEwC1RNj8F
+
+# Auditando.co Users
+
+Development of REST API for access to specific data through endpoints. Scalable ordered models (Model, Route, Controller), debugged python libraries with the best performance and advanced algorithms to deliver content to a debugged frontend.
+
+
+## General diagram
+![general diagram](/diagrama_auditando_co.png)
+
+## Specific diagram
+![specific diagram](Auditando_co_user.png)
 
 ### Initial Configuration
 
@@ -151,6 +161,9 @@ docker run --rm --name jaeger   -e COLLECTOR_ZIPKIN_HOST_PORT=:9411   -p 6831:68
 
 http://192.168.1.112:16686/
 http://localhost:16686/
+
+
+![jaeger](diagrama_jaeger.png)
 
 ## Mariadb
 
