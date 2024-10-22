@@ -1,5 +1,5 @@
 
-# Auditando.co Users
+# Django DRF
 
 Development of REST API for access to specific data through endpoints. Scalable ordered models (Model, Route, Controller), debugged python libraries with the best performance and advanced algorithms to deliver content to a debugged frontend.
 
